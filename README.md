@@ -1,3 +1,4 @@
+![Header](./assets/images/balloon_shooter.gif)
 # Balloon-Shooter :balloon: :gun:
 
 ### :balloon: Balloon Shooter is a 2D game made using Python and Pygame. :balloon:
